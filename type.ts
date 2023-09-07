@@ -15,7 +15,7 @@ export interface IService{
     name:string,
     description:string,
     image_path:string,
-    deplayed_url:string,
+    // deplayed_url:string,
     github_url:string,
     category:category[],
     key_techs:string[],
