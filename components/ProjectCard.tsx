@@ -17,7 +17,7 @@ const ProjectCard:FunctionComponent<{
 })=> {
   return (
     <div>
-        <image src={image_path} alt={name} className="cursor-pointer"/>
+        <img src={image_path} alt={name} className="cursor-pointer"/>
         <p className='my-2 text-center'>{name}</p>
     </div>
   )
