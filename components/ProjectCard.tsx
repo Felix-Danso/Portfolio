@@ -9,7 +9,6 @@ const ProjectCard:FunctionComponent<{
             name,
             image_path,
             category,
-            deplayed_url,
             github_url,
             description,
             key_techs
